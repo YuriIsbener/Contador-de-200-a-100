@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contador de 200 a 100/1.0.0": {
+        "runtime": {
+          "Contador de 200 a 100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contador de 200 a 100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
